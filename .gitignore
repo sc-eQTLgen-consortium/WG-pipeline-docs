@@ -155,7 +155,4 @@ cython_debug/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
 
-misc.xml
-profiles_settings.xml
-Project_Default.xml
-vcs.xml
+.idea/*
